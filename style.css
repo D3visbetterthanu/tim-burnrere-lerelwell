@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+    padding-top:800px;
+    text-align:center;
+
+}
+#tim{
+    border-radius:50%;
+    width:180px;
+    margin-bottom:50px;
+}
+#welcome{
+    position: absolute; overflow: hidden; height: 800px; color: #FFFFFF; left: 0; top: 0; bottom: 0; right: 0; opacity: 0.83; background: linear-gradient(#60ebeb 0%, #27ae60 100%); display: table; width: 100%; height: 100%;
+
+}
+#bio { padding: 70px; text-align: center; font-size: 42px; }
+.line{
+    height: 6px; background-color: #000; width: 70px; margin: 8px auto;
+}
+.imerc{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align:middle;
+}
+p{
+    max-width: 450px;
+    line-height: 1.3;
+    font-size: 18px;
+    margin: 25px auto;
+}
+#span_1{
+  font-size: 30px;
+font-family: cursive;
+}
+
